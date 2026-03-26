@@ -5,8 +5,8 @@
 <h1 align="center">TikSync Rust SDK</h1>
 
 <p align="center">
-  <strong>TikTok Live SDK for Rust</strong> — Real-time chat, gifts, likes, follows & viewer events.<br>
-  <a href="https://tik-sync.com">Website</a> · <a href="https://tik-sync.com/docs">Documentation</a> · <a href="https://tik-sync.com/pricing">Pricing</a>
+  <strong>TikTok Live SDK for Rust</strong> - Real-time chat, gifts, likes, follows & viewer events.<br>
+  <a href="https://tik-sync.com">Website</a> - <a href="https://tik-sync.com/docs">Documentation</a> - <a href="https://tik-sync.com/pricing">Pricing</a>
 </p>
 
 ---
@@ -72,4 +72,4 @@ Free tier available. See [pricing](https://tik-sync.com/pricing) for details.
 
 ## License
 
-MIT — Built by [TikSync](https://tik-sync.com)
+MIT - Built by [0xwolfsync](https://tik-sync.com)
