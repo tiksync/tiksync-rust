@@ -6,7 +6,7 @@ authors = ["SyncLive <contact@synclive.fr>"]
 description = "TikTok Live SDK for Rust — Real-time chat, gifts, likes & viewer events"
 license = "MIT"
 repository = "https://github.com/tiksync/tiksync-rust"
-homepage = "https://tiksync.com"
+homepage = "https://tik-sync.com"
 keywords = ["tiktok", "tiktok-live", "websocket", "api", "sdk"]
 categories = ["api-bindings", "web-programming::websocket"]
 
