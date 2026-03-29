@@ -24,6 +24,15 @@ struct RawEvent {
 
 impl TikSync {
     pub fn new(unique_id: &str, api_key: &str) -> Self {
+        if api_key.is_empty() {
+            panic!(
+                "\n\n\
+                 TikSync API key required\n\
+                 Get your free API key at: https://tik-sync.com/sign-up\n\
+                 Then use: TikSync::new(unique_id, \"ts_...\")\n\
+                 Free tier: 1,000 requests/day, 10 WS connections\n\n"
+            );
+        }
         Self {
             unique_id: unique_id.replace('@', ""),
             api_key: api_key.to_string(),
